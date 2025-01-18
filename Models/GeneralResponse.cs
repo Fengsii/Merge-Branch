@@ -3,5 +3,6 @@
     public class GeneralResponse
     {
         //Response
+        //General Lainnya
     }
 }
