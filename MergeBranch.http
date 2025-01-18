@@ -1,0 +1,6 @@
+@MergeBranch_HostAddress = http://localhost:5152
+
+GET {{MergeBranch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
